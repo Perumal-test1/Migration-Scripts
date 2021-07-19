@@ -4,7 +4,7 @@ set -e
 set -x
 set -u
 
-GIT_BASE_URL='https://github.com/Perumal-test1'
+GIT_BASE_URL=https://github.com/Perumal-test1/demo1.git''
 GIT_SOURCE_ORG='Perumal-test1'
 GIT_TARGET_ORG='test-demo-2'
 
